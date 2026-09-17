@@ -9,10 +9,11 @@
     <img src="https://img.shields.io/badge/Email-wjdals0461%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img width="320" height="320" align = "center" alt="e956f0c3acd11286de0004b4a01eb71e-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5cf208f3-ead0-4572-bd97-d7c839c0d5c7" />
-
-
+<p align ="center">
+  <a>
+<img width="320" height="320" alt="e956f0c3acd11286de0004b4a01eb71e-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5cf208f3-ead0-4572-bd97-d7c839c0d5c7" />
+  </a>
+</p>
 - 🌱 **I'm currently learning:** Embedded Systems, On-Device AI, YOLOv8, ROS2, TensorRT
 - 👥 **I'm looking to collaborate on:** Edge AI & Embedded Software Development
 - 💬 **Ask me about:** Python, C, Linux, MySQL
