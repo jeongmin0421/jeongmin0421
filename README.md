@@ -4,6 +4,10 @@
   </a>
 </p>
 
+### 🚀 On-Device AI Developer / Embedded Software Engineer
+
+An Embedded & On-Device AI Developer passionate about turning challenges into growth.
+
 - 🌱 **I'm currently learning:** Embedded Systems, On-Device AI, YOLOv8, ROS2, TensorRT
 - 👥 **I'm looking to collaborate on:** Edge AI & Embedded Software Development
 - 💬 **Ask me about:** Python, C, Linux, MySQL
