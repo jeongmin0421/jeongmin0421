@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=도전을%20통해%20배움을%20즐기고,%20-nl-더%20나은%20방향으로%20발전하는%20개발자&fontSize=40&fontColor=696969&animation=fadeIn&textBg=false&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=도전을%20통해%20배움을%20즐기고,%20-nl-더%20나은%20방향으로%20발전하는%20개발자&fontSize=40&fontColor=696969&animation=fadeIn&textBg=false&reversal=false&fontAlignY=65" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
