@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img width="480" height="480" alt="e956f0c3acd11286de0004b4a01eb71e-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5cf208f3-ead0-4572-bd97-d7c839c0d5c7" />
+<img width="320" height="320" align = "center" alt="e956f0c3acd11286de0004b4a01eb71e-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5cf208f3-ead0-4572-bd97-d7c839c0d5c7" />
 
 
 - 🌱 **I'm currently learning:** Embedded Systems, On-Device AI, YOLOv8, ROS2, TensorRT
