@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=도전을%20통해%20배움을%20즐기고,%20-nl-더%20나은%20방향으로%20발전하는%20개발자&fontSize=40&fontColor=696969&animation=fadeIn&textBg=false&reversal=false&fontAlignY=65" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+(https://capsule-render.vercel.app/api?type=waving&height=300&color=C9DFEC&text=JeongMin's%20GitHub!&textBg=false&fontColor=2F4F4F	&animation=fadeIn&fontSize=70&reversal=false)
 
 
 <!--
@@ -19,9 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### 🦾 Skills
+
+#### 🧑‍💻 Lang and Frameworks
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+
+#### 🛠️ Infra and Tools
+![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
 
 **🛠️ Infra and Tools**
-![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) -->
