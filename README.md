@@ -1,19 +1,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C9DFEC&text=JeongMin's%20GitHub!&textBg=false&fontColor=2F4F4F&animation=fadeIn&fontSize=70&reversal=false" />
 
-<!--
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/jeongmin0421">
+    <img src="https://img.shields.io/badge/GitHub-jeongmin0421-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:wjdals0461@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wjdals0461%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://pin.it/2hX7ZngL4
 
+- 🌱 **I'm currently learning:** Embedded Systems, On-Device AI, YOLOv8, ROS2, TensorRT
+- 👥 **I'm looking to collaborate on:** Edge AI & Embedded Software Development
+- 💬 **Ask me about:** Python, C, Linux, MySQL
 
 ### 🦾 Skills
 
