@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C9DFEC&text=JeongMin's%20GitHub!&textBg=false&fontColor=2F4F4F&animation=fadeIn&fontSize=70&reversal=false" />
-
 <p align ="center">
   <a>
 <img width="320" height="320" alt="e956f0c3acd11286de0004b4a01eb71e-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5cf208f3-ead0-4572-bd97-d7c839c0d5c7" />
