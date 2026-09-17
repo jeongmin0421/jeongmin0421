@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### 🚀 On-Device AI Developer / Embedded Software Engineer
+### 🍀 On-Device AI Developer / Embedded Software Engineer
 
 An Embedded & On-Device AI Developer passionate about turning challenges into growth.
 
@@ -12,7 +12,7 @@ An Embedded & On-Device AI Developer passionate about turning challenges into gr
 - 👥 **I'm looking to collaborate on:** Edge AI & Embedded Software Development
 - 💬 **Ask me about:** Python, C, Linux, MySQL
 
-### 🦾 Skills
+### ✨ Skills
 
 #### 🧑‍💻 Lang and Frameworks
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
