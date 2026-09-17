@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C9DFEC&text=JeongMin's%20GitHub!-nl-Embracing%20challenges,%20enjoying%20the%20journey%20of%20learning,%20and%20evolving%20into%20a%20better%20developer.&textBg=false&fontColor=2F4F4F&animation=fadeIn&fontSize=42&fontAlignY=55&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C9DFEC&text=JeongMin's%20GitHub!&textBg=false&fontColor=2F4F4F&animation=fadeIn&fontSize=70&reversal=false" />
 
 <p align ="center">
   <a>
